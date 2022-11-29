@@ -1,6 +1,6 @@
 //baseURL
 const baseURL = window.location.hostname.includes('127.0.0.1')
-?  'suellen-sudo/projetowebfirebase.github.io'
+?  'https://suellen-sudo/projetowebfirebase.github.io'
 : 'https://command-language-school-default-rtdb.firebaseio.com/'
 
 /**
